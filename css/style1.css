@@ -1,0 +1,203 @@
+/* Related To Main Home Page */
+/* Contains Everything For the cover Part On Home Page */
+#title{
+
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+  color: black;
+  text-align: center;
+}
+
+#brand-title{
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 3.5rem;
+  text-align: center;
+  color: black;
+}
+
+#navbar-item{
+  color: black;
+}
+/* The Monsoon Sale Text On the Cover Part On Home Page */
+.big-heading{
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+}
+
+.left-col{
+  text-align: center;
+}
+
+.shop-now-link{
+  color: black;
+}
+
+/* Navigation bar */
+/* Distance Between the Navigation bar and the content */
+.navbar{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 1.5rem;
+  color: black;
+}
+
+/* Padding Between Navigation Items */
+.nav-item{
+  padding: 0 0;
+  color: black;
+}
+
+.nav-link{
+  color: black;
+}
+
+/* For Container Fluid */
+/* Contains Everything On Cover part On Home Page */
+.full-nav{
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 15%, rgba(148,187,233,1) 26%, rgba(182,193,219,1) 45%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 15%, rgba(148,187,233,1) 26%, rgba(182,193,219,1) 45%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 15%, rgba(148,187,233,1) 26%, rgba(182,193,219,1) 45%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#b6c1db",GradientType=1);
+  padding: 3% 15% 1%;
+}
+
+.container-fluid{
+  padding: 3% 5% 1%;
+  text-align: center;
+}
+
+.row{
+  padding-bottom: 0;
+  margin: 100px 0 100px 0;
+}
+
+.image-main{
+  width: 100%;
+  padding-left: 50px;
+  border-radius: 100%;
+}
+
+.brand-trust{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 5.5rem;
+  color: #00bcd4;
+}
+
+.brand-trust:hover{
+  color: black;
+}
+
+.why-derma-sure{
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.5rem;
+}
+
+#footer{
+  text-align: center;
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+}
+
+
+#cta{
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.navigationBar{
+  text-align: center;
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+}
+
+.symbol{
+  font-size: 4.5rem;
+  color: black;
+  text-align: center;
+}
+
+.card-body{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.productrange{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact-details{
+  text-align: center;
+}
+
+.contact-us-heading{
+  margin-top: 50px;
+}
+
+
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #eeeeee;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+h3{
+  text-align: center;
+  margin-bottom: 50px
+}
+
+.loginrow{
+  margin-bottom: 200px;
+  padding-top: 30px;
+  padding-bottom: 30
+  background-color:  #eeeeee;
+}

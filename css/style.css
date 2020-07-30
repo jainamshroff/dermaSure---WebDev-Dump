@@ -1,0 +1,150 @@
+/* Related To Main Home Page */
+/* Contains Everything For the cover Part On Home Page */
+#title{
+
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+  color: black;
+  text-align: center;
+}
+
+#brand-title{
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 3.5rem;
+  text-align: center;
+  color: black;
+}
+
+#navbar-item{
+  color: black;
+}
+/* The Monsoon Sale Text On the Cover Part On Home Page */
+.big-heading{
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  text-align: center;
+  color: black;
+  padding-top: 50px;
+}
+
+.left-col{
+  text-align: center;
+}
+
+.shop-now-link{
+  color: black;
+}
+
+/* Navigation bar */
+/* Distance Between the Navigation bar and the content */
+.navbar{
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: 6.5rem;
+  color: black;
+}
+
+/* Padding Between Navigation Items */
+.nav-item{
+  padding: 0 0;
+  color: black;
+}
+
+.nav-link{
+  color: black;
+}
+
+/* For Container Fluid */
+/* Contains Everything On Cover part On Home Page */
+.container-fluid{
+  padding: 3% 15% 3%;
+  text-align: center;
+}
+
+.row{
+  padding-bottom: 0;
+}
+
+.image-main{
+  width: 100%;
+  padding-left: 50px;
+  border-radius: 100%;
+}
+
+.brand-trust{
+  margin-top: 100px;
+  text-align: center;
+  font-size: 5.5rem;
+  color: #00bcd4;
+  margin-bottom: 100px;
+}
+
+.brand-trust:hover{
+  color: black;
+}
+
+.why-derma-sure{
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.5rem;
+}
+
+#testimonials{
+
+  padding-top: 150px;
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+  text-align: center;
+
+}
+
+#press{
+
+  padding-top: 150px;
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+  text-align: center;
+  padding-bottom: 150px;
+}
+
+.press-image{
+  width: 100px;
+}
+
+.people-profile{
+  width: 50px;
+  border-radius: 100%;
+  padding-top: 20px;
+  padding-right: 10px;
+}
+
+#footer{
+  text-align: center;
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(206,179,213,1) 39%, rgba(182,193,219,1) 68%, rgba(148,187,233,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
+}
+
+
+#cta{
+  margin-top: 150px;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+h3{
+  margin-bottom: 40px;
+}
